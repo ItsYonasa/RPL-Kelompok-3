@@ -1,8 +1,7 @@
-
 #include <iostream>
 
 using namespace std;
-
+/*sumpah kd paham */
 int getSum(int n)
 {
     int sum = 0;
